@@ -2,12 +2,6 @@
 Titanic classification [challenge on Kaggle](https://www.kaggle.com/c/titanic).
 Given a dataset of a subset of the Titanic's passengers predict whether they will survive or not.
 
-## Credits
-* Claudia Chianella ([@clauchian](https://github.com/clauchian))
-* Yannick Giovanakis ([@yangvnks](https://github.com/yangvnks))
-* Flavio Primo ([@flaprimo](https://github.com/flaprimo/))
-* Francesco Zinnari ([@FrancescoZinnari](https://github.com/FrancescoZinnari))
-
 ## Method
 Below are provided the steps that were followed for this project. Each step and classifiers have their own document.
 
